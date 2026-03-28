@@ -48,8 +48,8 @@ https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="YT-MX", Grupo Fórmula
 https://www.youtube.com/channel/UCzmd9Aj2wmPggWZJpLdBB8Q/live
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Distrito Comedia
+https://www.youtube.com/channel/UCms2rIXwmMvIpDUU69X0PoQ/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", T13
 https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Television Canaria
@@ -70,6 +70,7 @@ https://www.youtube.com/channel/UC8PkIOXmyKwLGRA4tIp8gKA/live
 https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Hillsong Español
 https://www.youtube.com/channel/UCQ4EKwRvYSk5CH6IiY-3OHA/live
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Televisa N+ Foro
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
@@ -124,6 +125,8 @@ https://www.youtube.com/channel/UC226bje4jIx8iM3eMNNHbKA
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports
 https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", El Canal del Futbol
+https://www.youtube.com/channel/UComm7W4UIS_sIP4QIj-afQQ/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Next Sports Channel
 https://www.youtube.com/channel/UCC-U6UN7bWede7KBwFyndNw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Secta Deportiva
