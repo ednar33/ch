@@ -64,8 +64,12 @@ https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
 https://www.youtube.com/channel/UCUT4NmGqjrVpKf2JyiS_bbA/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Caso Cerrado 24/7
 https://www.youtube.com/channel/UCGbofRROopWrumVob5w61OA/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", S.W.A.T. en Español
+https://www.youtube.com/channel/UC8PkIOXmyKwLGRA4tIp8gKA/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Tomorrowland TV
 https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Hillsong Español
+https://www.youtube.com/channel/UCQ4EKwRvYSk5CH6IiY-3OHA/live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Televisa N+ Foro
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
@@ -109,11 +113,6 @@ https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", El Chavo del 8
 https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw/live
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports
-https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Peliculas", Romance Channel
 https://www.youtube.com/channel/UCcLzwVXQXSFlWYzhnYTaWqw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Peliculas", Suspenso Channel
@@ -123,3 +122,11 @@ https://www.youtube.com/channel/UCh5MQwi8K56I453DeQ3erDw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Peliculas", TeleNativa 
 https://www.youtube.com/channel/UC226bje4jIx8iM3eMNNHbKA
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports
+https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Next Sports Channel
+https://www.youtube.com/channel/UCC-U6UN7bWede7KBwFyndNw/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Secta Deportiva
+https://www.youtube.com/channel/UCBPasXWxj1DYJLqZktw_UWg/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Bunny Esports
+https://www.youtube.com/channel/UCpwIqnTIYjvtBquzmqBAUqg/live
