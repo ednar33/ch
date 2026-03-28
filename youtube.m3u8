@@ -45,6 +45,10 @@ https://www.youtube.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA/live
 https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="YT-MX", Multimedios
 https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="YT-MX", Grupo Fórmula
+https://www.youtube.com/channel/UCzmd9Aj2wmPggWZJpLdBB8Q/live
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", T13
 https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
@@ -58,11 +62,19 @@ https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw/live
 https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", El Nueve (Argentina)
 https://www.youtube.com/channel/UCUT4NmGqjrVpKf2JyiS_bbA/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Caso Cerrado 24/7
+https://www.youtube.com/channel/UCGbofRROopWrumVob5w61OA/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Tomorrowland TV
+https://www.youtube.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ/live
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Televisa N+ Foro
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Telediario MX
+https://www.youtube.com/channel/UCKuAmo9OGf8kw2jrPWCpHdA/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Milenio TV
 https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", CNN en Español
+https://www.youtube.com/channel/UC_lEiu6917IJz03TnntWUaQ/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Noticias Caracol
 https://www.youtube.com/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", RTVE Noticias
@@ -75,8 +87,12 @@ https://www.youtube.com/channel/UCnsvJeZO4RigQ898WdDNoBw/live
 https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Libertad Digital
 https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Noticias Telemundo 
+https://www.youtube.com/channel/UCRwA1NUcUnwsly35ikGhp0A/Live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Univision Noticias
+https://www.youtube.com/channel/UC32TdiIsh_5X8tKr_9rKQyA/live
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Dieney Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Disney Channel
 https://www.youtube.com/channel/UCayRpbmAiiuU50OpDPVSjwA/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", WB Kids
 https://www.youtube.com/channel/UCB82v6uKp1S-I-DVoL2neDA/live
