@@ -46,19 +46,18 @@ https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="YT-MX", Multimedios
 https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", T13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", T13
 https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", Television Canaria
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Television Canaria
 https://www.youtube.com/channel/UCTQrUTmzCWIfG6h4EVCdOCQ/live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", TV Publica Argentina
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", TV Publica Argentina
 https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", Alan Becker TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", Alan Becker TV
 https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw/live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", América TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", América TV
 https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", El Nueve (Argentina)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Varios", El Nueve (Argentina)
 https://www.youtube.com/channel/UCUT4NmGqjrVpKf2JyiS_bbA/live
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Informativos", Televisa N+ Foro
 https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
@@ -87,10 +86,14 @@ https://www.youtube.com/channel/UCQySZQ6rrgJXRuonMwIIGMA/live
 https://www.youtube.com/channel/UCaEb7kPgpldLuEzCRzFXsLw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Pocoyo
 https://www.youtube.com/channel/UCnB5W_ZJgiDFnklejRGADxw/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Bluey
+https://www.youtube.com/channel/UCYvpkMpzo1S_rmcj2Axmbig/live
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Niños", Paw Patrol
+https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Deportes", Claro Sports
+https://www.youtube.com/channel/UCJNBZaQWMIHACqvHT_k2cWw/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="Youtube", 
